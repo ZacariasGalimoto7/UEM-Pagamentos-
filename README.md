@@ -1,3 +1,2 @@
 # UEM-Pagamentos-
-Facilidade e rapidez 
-codemagic.yaml
+Facilidade e rapidez
