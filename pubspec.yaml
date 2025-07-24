@@ -1,5 +1,5 @@
 name: uem_pagamentos
-description: Aplicativo de Pagamentos da UEM
+description: App de Pagamentos UEM
 publish_to: "none"
 version: 1.0.0+1
 
@@ -8,10 +8,6 @@ environment:
 
 dependencies:
   flutter:
-    sdk: flutter
-
-dev_dependencies:
-  flutter_test:
     sdk: flutter
 
 flutter:
